@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ma-user@authoring-ssh.cncentral231.xckpjs.com:31284" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="ma-user@authoring-ssh.cncentral231.xckpjs.com:31284">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ma-user/work/gpt2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mist@gpu28.mistgpu.com:43500">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mist/gpt2/hug-trans-gpt2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhuda-torch">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ma-user/work/gpt2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

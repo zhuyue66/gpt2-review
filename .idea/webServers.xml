@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7d908375-4107-4d86-bc06-adf3e699aa1e" name="mind-torch">
+        <fileTransfer rootFolder="/home/ma-user/work/test" accessType="SFTP" host="authoring-ssh.cncentral231.xckpjs.com" port="30327" sshConfigId="13d3080d-0051-419e-b939-acbaa304dc13" sshConfig="ma-user@authoring-ssh.cncentral231.xckpjs.com:30327 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d2ce9759-28e4-45c0-b6c8-3c0eb509c8b2" name="zhuda-torch">
+        <fileTransfer accessType="SFTP" host="authoring-ssh.cncentral231.xckpjs.com" port="31284" sshConfigId="6651eeb1-73f1-4117-9b01-812130c18a2f" sshConfig="ma-user@authoring-ssh.cncentral231.xckpjs.com:31284 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

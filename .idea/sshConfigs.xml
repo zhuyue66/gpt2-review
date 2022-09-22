@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="authoring-ssh.cncentral231.xckpjs.com" id="13d3080d-0051-419e-b939-acbaa304dc13" keyPath="$USER_HOME$/.ssh/id_rsa" port="30327" nameFormat="DESCRIPTIVE" username="ma-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
